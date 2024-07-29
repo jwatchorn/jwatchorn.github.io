@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Staff Research Scientist <a href='https://acceleration.utoronto.ca/'>Acceleration Consortium</a>. 
+subtitle: Staff Research Scientist, <a href='https://acceleration.utoronto.ca/'>Acceleration Consortium</a>. 
 
 profile:
   align: right
