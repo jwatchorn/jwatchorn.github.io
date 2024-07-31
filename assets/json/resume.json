@@ -29,7 +29,7 @@
       "url": "https://https://acceleration.utoronto.ca/",
       "startDate": "2024-01-03",
       "endDate": "Current",
-      "summary": "Developed end-to-end python-based pipelines for AI/ML-driven experimentation including developing the robotics, programming the experiment planning and interpreting ML, and configuring the database ETL pipelines.",
+      "summary": "Developed end-to-end python-based pipelines for AI/ML-driven experimentation including developing the robotics, programming ML for experiment planning and data modelling, as well as configuring the database ETL pipelines.",
       "highlights": ["Machine Learning (python), Bayesian Optimization (python), Hardware Engineering, ETL pipelines"]
     }
   ],
