@@ -6,7 +6,6 @@
     "email": "jeffreydwatchorn@gmail.com",
     "phone": "",
     "url": "https://jwatchorn.github.io",
-    "linkedin": "https://linkedin.com/in/jeffreydwatchorn",
     "summary": "A curious chemical engineer by training, working to leverage data science, ai and automation for materials discovery",
     "location": {
       "address": "161 Grenadier Road",
@@ -17,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "linkedin",
+        "username": "jeffreydwatchorn",
+        "url": "https://linkedin.com/in/jeffreydwatchorn"
       }
     ]
   },
@@ -70,9 +69,16 @@
   "certificates": [
     {
       "name": "Machine Learning with Python",
-      "date": "2022-11-01",
+      "date": "2022-08-01",
       "issuer": "DataCamp",
       "url": "https://www.datacamp.com/completed/statement-of-accomplishment/track/e058de0c748b789098878cbd563d9150267c4650",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Deep Learning in Python",
+      "date": "2022-11-01",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/track/4698f69484fdd43e592e36c23e324796dec062f0",
       "icon": "fa-solid fa-clipboard-check"
     }
 
