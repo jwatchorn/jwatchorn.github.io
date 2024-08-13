@@ -6,6 +6,7 @@
     "email": "jeffreydwatchorn@gmail.com",
     "phone": "",
     "url": "https://jwatchorn.github.io",
+    "linkedin": "https://linkedin.com/in/jeffreydwatchorn",
     "summary": "A curious chemical engineer by training, working to leverage data science, ai and automation for materials discovery",
     "location": {
       "address": "161 Grenadier Road",
@@ -36,21 +37,31 @@
 
   "education": [
     {
-      "institution": "University of Toronto, Toronto, Canada",
+      "institution": "University of Toronto",
       "location": "Toronto, Canada",
-      "url": "https://https://www.utoronto.ca//",
+      "url": "https://chem-eng.utoronto.ca/",
       "area": "Chemical Engineering",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2018-09-01",
       "endDate": "2023-09-23",
       "score": "4.0",
       "thesis": ["Investigating the Fundamental Molecular Interactions Responsible for Polymer Mucoadhesion"]
+    },
+    {
+      "institution": "University of Waterloo, with Distinction",
+      "location": "Waterloo, Canada",
+      "url": "https://uwaterloo.ca/future-students/programs/nanotechnology-engineering",
+      "area": "Nanotechnology Engineering",
+      "studyType": "Bachelor of Applied Science (Co-op)",
+      "startDate": "2012-09-01",
+      "endDate": "2017-05-24",
+      "score": "3.7"
     }
   ],
   "awards": [
     {
       "title": "Chair's Discovery Award",
-      "date": "2023-09-23",
+      "date": "2023",
       "awarder": "University of Toronto",
       "url": "https://chem-eng.utoronto.ca/graduate-studies/programs-degrees/chairs-discovery-award/",
       "summary": "Awarded to graduate students in the department of Chemical Engineering for making substantial contributions, in the form of published journal articles, to their field of study."
@@ -100,15 +111,25 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Deep Learning",
+        "Active Learning",
+        "Bayesian Optimization",
+        "ETL Pipelines",
+        "Computer Vision"
+      ]
+    },
+    {
+      "name": "Materials Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Hydrogels",
+        "Drug Delivery",
+        "Macromolecular Interactions",
+        "Metamaterials"
       ]
     }
   ],
