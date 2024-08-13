@@ -16,21 +16,39 @@
     },
     "profiles": [
       {
-        "network": "linkedin",
-        "username": "jeffreydwatchorn",
-        "url": "https://linkedin.com/in/jeffreydwatchorn"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Acceleration Consortium, University of Toronto",
+      "name": "Acceleration Consortium",
       "position": "Staff Research Scientist",
-      "url": "https://https://acceleration.utoronto.ca/",
+      "url": "https://acceleration.utoronto.ca/",
       "startDate": "2024-01-03",
       "endDate": "Current",
       "summary": "Developed end-to-end python-based pipelines for AI/ML-driven experimentation including developing the robotics, programming ML for experiment planning and data modelling, as well as configuring the database ETL pipelines.",
       "highlights": ["Machine Learning (python), Bayesian Optimization (python), Hardware Engineering, ETL pipelines"]
+    },
+    {
+      "name": "Frank Gu Lab",
+      "position": "Graduate Research Associate",
+      "url": "https://www.frankgulab.com/",
+      "startDate": "2017-09-01",
+      "endDate": "2023-09-23",
+      "summary": "Led a small multidisciplinary team to elucidate the driving mechanisms behind protein-biomaterials interactions using nuclear magnetic resonance, statistical methods, and machine learning, towards data-driven nanoparticle drug delivery system design.",
+      "highlights": ["Drug Delivery Devices, Spectroscopy (NMR), Technical Writing, Machine Learning (python)"]
+    },
+    {
+      "name": "Statistics Canada",
+      "position": "Data Analyst (Contract)",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2017-09-01",
+      "summary": "Developed frameworks for accessing, tabulating, and analyzing Statistics Canada databases used for national indicators (such as consumer price index). Implemented machine learning tools, including KMeans clustering, to dynamically assign product category labels to sample consumer shopping carts.",
+      "highlights": ["Big Data, SAS, SQL, Technical Writing, Machine Learning (python)"]
     }
   ],
 
@@ -64,6 +82,20 @@
       "awarder": "University of Toronto",
       "url": "https://chem-eng.utoronto.ca/graduate-studies/programs-degrees/chairs-discovery-award/",
       "summary": "Awarded to graduate students in the department of Chemical Engineering for making substantial contributions, in the form of published journal articles, to their field of study."
+    },
+    {
+      "title": "Queen Elizabeth II Graduate Scholarship in Science and Technology",
+      "date": "2019, 2021, 2022",
+      "awarder": "University of Toronto",
+      "url": "https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html",
+      "summary": "Merit-based scholarship supporting doctoral studies in natural and applied sciences"
+    },
+    {
+      "title": "McLean Foundation Graduate Scholarship in Science and Technology",
+      "date": "2020, 2021",
+      "awarder": "University of Toronto",
+      "url": "https://chem-eng.utoronto.ca/graduate-studies/funding-fees/departmental-awards/",
+      "summary": "Merit-based scholarship supporting doctoral studies considering academic excellence"
     }
   ],
   "certificates": [
