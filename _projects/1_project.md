@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Machine Learning with Macromolecules
+description: Applying machine learning to spectroscopy data from DISCO NMR to uncover structure activity relationships between polymers and their binding behavior
 img: assets/img/12.jpg
 importance: 1
 category: work
