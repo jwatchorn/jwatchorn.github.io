@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Chemical Engineering | Staff Research Scientist | <a href='https://acceleration.utoronto.ca/'>Acceleration Consortium</a>
+subtitle: PhD Chemical Engineering | Engagement Manager | <a href='https://www.validere.com/'>Validere</a>
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot2.jpg
   image_circular: true # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
@@ -20,7 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 Hey! Thanks for checking out my website.
 
-I am currently a research scientist with the University of Toronto's Acceleration Consortium, working to accelerate materials discovery by combining machine learning with laboratory automation to create [self driving labs](https://www.nature.com/articles/s44160-022-00231-0). At present my focus is on formulations science, where I develop custom automation and machine learning models for a diversity of materials, everything from pharmaceuticals and cosmetics to concrete.
+I am an engagement manager at [Validere](https://www.validere.com/) where I help energy companies understand their data, and help them turn regulatory compliance into a value driver. Right now I manage most of our large enterprise clients in North America and Oceania, whether it's roadmapping and project planning or getting my hands dirty and developing features. My number one goal is to make our clients happy to be our clients!
+
+Previously, I was a research scientist with the University of Toronto's Acceleration Consortium, working to accelerate materials discovery by combining machine learning with laboratory automation to create [self driving labs](https://www.nature.com/articles/s44160-022-00231-0). My main focus was on formulations science, where I developed custom automation and machine learning models for a diversity of materials, everything from pharmaceuticals and cosmetics to concrete.
 
 Aside from working, I love learning new skills and trying new things. I am an avid trivia man over at [learnedleague](https://learnedleague.com), I run a weekly dungeons and dragons campaign, as well as a men's league hockey team (2x Champions).
 

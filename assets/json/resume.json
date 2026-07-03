@@ -6,7 +6,7 @@
     "email": "jeffreydwatchorn@gmail.com",
     "phone": "",
     "url": "https://jwatchorn.github.io",
-    "summary": "A curious chemical engineer by training, working to leverage data science, ai and automation for materials discovery",
+    "summary": "A curious chemical engineer by training, working to leverage drive and technical accumen to deliver for clients",
     "location": {
       "address": "161 Grenadier Road",
       "postalCode": "M6R1R5",
@@ -23,12 +23,21 @@
     ]
   },
   "work": [
+      {
+      "name": "Validere",
+      "position": "Engagement Manager",
+      "url": "https://www.validere.com/",
+      "startDate": "2025-04-21",
+      "endDate": "Current",
+      "summary": "Managed SAAS Engagements for a 2M ARR Portfolio of global clients, including end to end delivery and expansion",
+      "highlights": ["Client Engagement, Project Management, Executive Level Relationship Building, Solution Architecture"]
+    },
     {
       "name": "Acceleration Consortium",
       "position": "Staff Research Scientist",
       "url": "https://acceleration.utoronto.ca/",
       "startDate": "2024-01-03",
-      "endDate": "Current",
+      "endDate": "2025-04-19",
       "summary": "Developed end-to-end python-based pipelines for AI/ML-driven experimentation including developing the robotics, programming ML for experiment planning and data modelling, as well as configuring the database ETL pipelines.",
       "highlights": ["Machine Learning (python), Bayesian Optimization (python), Hardware Engineering, ETL pipelines"]
     },
